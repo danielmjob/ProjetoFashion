@@ -22,6 +22,10 @@ Trabalhando com Branch (ramos) do projeto
 git branch MinhaNovaBrach |Criar uma branch
 git checkout MinhaNovaBrach | acessar a branch
 
-git merge | para unir a branch "ramo" com a main
+
+Unindo as branchs entre na branch que quer mesclar.
+Ex.: git checkout main 
+e digite o comando a baixo
+git merge MinhaNovaBrach | para unir a branch "MinhaNovaBrach" com a "main"
 
 
