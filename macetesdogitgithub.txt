@@ -20,7 +20,7 @@ git pull origin main |pega os arquivos da nuvem e substitui no pc local
 Trabalhando com Branch (ramos) do projeto
 
 git branch MinhaNovaBrach |Criar uma branch
-git checkout -b MinhaNovaBrach | acessar a branch
+git checkout MinhaNovaBrach | acessar a branch
 
 git merge | para unir a branch "ramo" com a main
 
