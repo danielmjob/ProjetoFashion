@@ -1,4 +1,4 @@
-Macetes do GIT e Github
+// Macetes do GIT e Github //
 
 git config --global user.email "danielmarquesjob@gmail.com" | Para configurar o email
 git config --global user.name "danieljob" | Para configurar o user name
