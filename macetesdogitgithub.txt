@@ -1,0 +1,14 @@
+Macetes do GIT e Github
+
+Criar o repositorio no gitHub
+Clona o http
+Abre a pasta onde vai ficar
+Abre o Git bash here
+Comando Git clone endereço da pasta
+Git status verifica
+
+Git add . |prepara os arquivos
+git commit -m "mensagem" |envia os arquivos
+git push origin main |envia/sincroniza com a nuvem
+
+git pull origin main |pega os arquivos da nuvem e substitui no pc local
